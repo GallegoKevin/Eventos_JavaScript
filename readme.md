@@ -1,6 +1,11 @@
-# Todo List 
+# Diseño de "Todo List": 
 
 Consiste en un diseño de formulario simple para registrar las tareas y el nombre del autor. El cual una vez que se envie el formulario, los datos se muestran en un cuadro de lista en la misma página.
+
+El diseño cumple las condiciones:
+ - Cuando se envian, los campos se limpian
+ - validar los campos (no campos vacios)
+ - mostrar mensaje cuando no hay elementos en la lista
 
 - **Bosquejo de Diseño**
 
@@ -62,8 +67,6 @@ Se utilizan  para manejar las interacciones del usuario.
 
 
 
-## Resultado Final del bosquejo de  diseño en navegador
-
-
+## **Resultado Final del bosquejo de  diseño en navegador**
 
 ![App Screenshot](https://i.ibb.co/kDtsMVv/lista.gif)
