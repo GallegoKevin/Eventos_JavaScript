@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Todo List</title>
+    <link rel="stylesheet" href="./styles.css">
+
+</head>
+<body>
+
+<header>
+        <h1>Todo List</h1>
+</header>
+
+<main>
+        <div class="container">
+
+            <div class="form-container">
+
+                <form id="taskForm">
+                    <div class="input-group">
+                    <input type="text" id="taskName" placeholder="Nombre de la tarea">
+                    <input type="text" id="author" placeholder="Autor">
+                    </div>
+                    <button type="submit">Enviar</button>
+                </form>
+
+            </div>
+            <div class="list-container">
+                <h2>List</h2>
+                <ul id="taskList" class="list">
+                    
+                </ul>
+            </div>
+        </div>
+</main>
+
+
+
+<script src="./app.js"></script>
+</body>
+</html>
