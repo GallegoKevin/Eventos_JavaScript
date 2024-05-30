@@ -1,6 +1,6 @@
 # Diseño de "Todo List": 
 
-Consiste en un diseño de formulario simple para registrar las tareas y el nombre del autor. El cual una vez que se envie el formulario, los datos se muestran en un cuadro de lista en la misma página.
+Consiste en un diseño de formulario simple para registra las tareas y el nombre del autor. El cual una vez que se envie el formulario, solo los datos de las tareas se muestran en un cuadro de lista en la misma página.
 
 El diseño cumple las condiciones:
  - Cuando se envian, los campos se limpian
@@ -12,7 +12,7 @@ El diseño cumple las condiciones:
 ![App Screenshot](https://i.ibb.co/RgLGwzf/Dise-o-de-lista-de-tareas.png)
 
 
-# Tipos de Archivos empleados para la creación: 
+# Tipos de archivos empleados para la creación: 
 
 ## HTML
 Para la creación del diseño se emplearon los elementos:
