@@ -7,7 +7,7 @@ El diseño cumple las condiciones:
  - validar los campos (no campos vacios)
  - mostrar mensaje cuando no hay elementos en la lista
 
-- **Bosquejo de Diseño**
+ **Bosquejo de Diseño**
 
 ![App Screenshot](https://i.ibb.co/RgLGwzf/Dise-o-de-lista-de-tareas.png)
 
