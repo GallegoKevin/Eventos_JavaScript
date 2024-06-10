@@ -69,4 +69,4 @@ Se utilizan  para manejar las interacciones del usuario.
 
 ## **Resultado Final del bosquejo de  diseño en navegador**
 
-![App Screenshot](https://i.ibb.co/kDtsMVv/lista.gif)
+![App Screenshot](https://i.ibb.co/LJmRNp6/lista012.gif)
